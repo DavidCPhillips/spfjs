@@ -231,3 +231,8 @@ and a website is coming soon.  Don't hesitate to reach out to us via our
 
 MIT  
 Copyright 2012-2014 Google, Inc.
+
+
+## Team Mascot
+
+David Phillips
